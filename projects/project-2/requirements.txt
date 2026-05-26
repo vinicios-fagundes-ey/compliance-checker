@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+openai
+qdrant-client
+langchain
+langchain-community
+pypdf
+sentence-transformers
+pytest
+httpx
