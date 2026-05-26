@@ -1,4 +1,4 @@
- # Registro de Decisões Arquiteturais (ADRs)
+# Registro de Decisões Arquiteturais (ADRs)
 
   ## ADR-001: Uso de ChromaDB local
   **Decisão:** usar ChromaDB persistente local em `./data/output/chroma_db`.

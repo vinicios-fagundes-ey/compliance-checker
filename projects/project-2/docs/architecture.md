@@ -30,7 +30,6 @@
 
   ## Diagrama de Alto Nível
 
-  ```mermaid
   flowchart LR
       A[Knowledge Base PDFs/TXTs] --> B[Ingestion Pipeline]
       B --> C[(ChromaDB)]
